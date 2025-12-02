@@ -42,4 +42,4 @@ Every solution file must follow this format:
 
 ## Adding New Solutions
 
-Use the `/init` slash command - it will walk you through creating a properly formatted solution file.
+Create a new `.md` file in the appropriate category folder using the template above.
